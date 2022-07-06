@@ -1,0 +1,30 @@
+:root {
+  --primary: #FF4B1F;
+  --primary-rgb: 255, 76, 31;
+  --primary-hs: 12, 100%;
+  --primary-l: 56%;
+  --secondary: #D24B50;
+  --secondary-rgb: 210, 75, 80;
+  --secondary-hs: 358, 60%;
+  --secondary-l: 56%;
+  --light: #FCF5F2;
+  --light-rgb: 252, 245, 242;
+  --light-hs: 18, 63%;
+  --light-l: 97%;
+  --medium: #C9A6AD;
+  --dark-rgb: 201, 166, 173;
+  --dark: #6D6875;
+  --dark-rgb: 109, 104, 117;
+  --dark-hs: 263, 6%;
+  --dark-l: 43%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
