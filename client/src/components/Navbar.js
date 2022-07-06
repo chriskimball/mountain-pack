@@ -50,7 +50,7 @@ export default function Navbar() {
             </IconButton>
           </Link>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Work timeline
+            Mountain pack
           </Typography>
           {Auth.loggedIn() ? (
             <div>
